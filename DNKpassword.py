@@ -306,5 +306,5 @@ if numb == "1":
             res+=1
             istos+=1
         except:
-            print(res)
+            print("#########=> "+str(res))
             break
